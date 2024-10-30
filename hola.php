@@ -1,8 +1,11 @@
 <?php
+
 echo "2";
+
 $diego =1;
 $diego2=2;
 $array=array();
+
 array_push($array,$diego);
 array_push($array,$diego2);
 
